@@ -1,16 +1,15 @@
-## Hi there 👋
+# ZhengYang Han
 
-<!--
-**XiaoHannmn/XiaoHannmn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi! I'm a Master's student in Computer Technology at **Harbin Institute of Technology, Shenzhen (HITSZ)**.
 
-Here are some ideas to get you started:
+### Research Interests
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Unmanned Aerial Vehicles (UAVs)
+- World Models
+- Embodied Artificial Intelligence
+
+### Contact
+
+- **Email:** xiaohannnmnn@gmail.com
+- **GitHub:** [XiaoHannmn](https://github.com/XiaoHannmn)
+- **Affiliation:** Harbin Institute of Technology, Shenzhen, China
